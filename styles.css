@@ -1,0 +1,85 @@
+.a1 {
+	background-color: #3C6C28;
+	border-radius: 20px;
+	margin-left: 20%;
+	width: 1040px;
+	text-align: center;
+}
+
+
+/* img Гамсутль */
+
+#a2 {
+	width: 1040px;
+	margin-left: 20%;
+	border-radius: 20px;
+	margin-right: 20%;
+	margin-bottom: 1%;
+}
+
+
+.a3 {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.a4 {
+	background-color: #3C6C28;
+	border-radius: 20px;
+	margin-left: 20%;
+	width: 1000px;
+	padding: 20px;
+}
+
+
+
+/* img Амузги */
+
+#a5 {
+	width: 1040px;
+	margin-left: 20%;
+	border-radius: 20px;
+}
+ .a6 {
+ 	background-color: #3C6C28;
+	border-radius: 20px;
+	margin-left: 20%;
+	width: 1000px;
+	padding: 20px;
+ }
+
+ /* img Амузги */
+
+#a7 {
+ 	width: 100%;
+ 	margin-top: 30px;
+	border-radius: 20px;
+ }
+ 
+.h1 {
+	padding: 10px;
+
+}
+
+.parent {
+	position: relative;
+}
+
+.child {
+	position: absolute;
+	width: 100%;
+	height: 50%;
+	left: 5%;
+	top: 5%;
+}
+
+.h2  {
+	background-color: #3C6C28;
+	border-radius: 20px;
+	padding: 10px;
+	margin-left: 20%;
+	width: 1020px;
+	text-align: center;
+}
+
+
